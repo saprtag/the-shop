@@ -1,0 +1,171 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header-top {
+    height: 70px;
+}
+
+.header-bottom {
+    position: relative;
+
+}
+
+.logo {
+    height: 20px;
+    padding-left: 100px;
+    top: 25px;
+    position: absolute;
+}
+
+.logo_center {
+    top: 60px;
+    height: 50px;
+    position: relative;
+    display: inline;
+    text-align: center;
+}
+
+.nomber {
+    color: #cc0000;
+    font-weight: 700;
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+}
+
+.vid4 {
+    height: 50px;
+    background-color: rgb(241, 242, 236);
+    border-top: 1px solid rgb(216, 216, 216);
+    border-bottom: 1px solid rgb(216, 216, 216);
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+
+.first {
+    color: black;
+    text-decoration: none;
+}
+
+.vid3 {
+    width: 170px;
+    height: 40px;
+    right: 100px;
+    position: absolute;
+    top: -7px;
+}
+
+
+.search {
+    position: absolute;
+    width: 250px;
+    top: 20px;
+    right: 100px;
+
+}
+
+.vid5 {
+    height: 50px;
+    width: 50px;
+    display: inline;
+}
+
+
+.vid2 {
+    position: relative;
+    top: -50px;
+    text-align: center;
+
+}
+
+a {
+    color: red;
+}
+
+
+.d3 button {
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    top: 21px;
+    right: 120px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: transparent;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+
+.button_search {
+    height: 16px;
+    width: 16px;
+}
+
+.first_in_body {
+    display: inline;
+
+}
+
+.del {
+    color: black;
+    font-weight: 900;
+    display: inline;
+}
+
+
+.the {
+    display: inline;
+}
+
+.men {
+    position: absolute;
+    width: 42%;
+    min-width: 400px;
+    padding-left: 40px;
+
+}
+
+.name {
+    position: absolute;
+   right: 600px;
+    font-weight: 900;
+    font-size: 30px;
+    margin-left: 700px;
+}
+
+.compos {
+    position: relative;
+    left: 800px;
+    font-size: 18px;
+}
+
+.size_clothes {
+    border: 1px solid black;
+    position: absolute;
+    left: 760px;
+    display: inline;
+    font-size: 70px;
+
+}
+
+.size {
+    right:900px ;
+    position: absolute;
+    top: 300px;
+}
+
+
+
+
+
+
+
+
