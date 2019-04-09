@@ -2,26 +2,31 @@ body {
     padding: 0px;
     margin: 0px;
 }
-.header-top{
+
+.header-top {
     height: 70px;
 }
+
 .header-bottom {
     position: relative;
 
 }
+
 .logo {
     height: 20px;
     padding-left: 100px;
     top: 25px;
     position: absolute;
 }
-.logologo {
-    top:60px;
+
+.logo_center {
+    top: 60px;
     height: 50px;
     position: relative;
     display: inline;
     text-align: center;
 }
+
 .nomber {
     color: #cc0000;
     font-weight: 700;
@@ -29,7 +34,8 @@ body {
     position: absolute;
     top: 10px;
 }
-.vid2 {
+
+.vid4 {
     height: 50px;
     background-color: rgb(241, 242, 236);
     border-top: 1px solid rgb(216, 216, 216);
@@ -42,7 +48,7 @@ li {
 }
 
 
-.aa {
+.first {
     color: black;
     text-decoration: none;
 }
@@ -56,8 +62,7 @@ li {
 }
 
 
-
-.poisc {
+.search {
     position: absolute;
     width: 250px;
     top: 20px;
@@ -65,14 +70,14 @@ li {
 
 }
 
-.vid4 {
+.vid5 {
     height: 50px;
     width: 50px;
     display: inline;
 }
 
 
-.vid5 {
+.vid2 {
     position: relative;
     top: -50px;
     text-align: center;
@@ -82,8 +87,6 @@ li {
 a {
     color: red;
 }
-
-
 
 
 .d3 button {
@@ -101,58 +104,62 @@ a {
 }
 
 
-.cnopca {
+.button_search {
     height: 16px;
     width: 16px;
 }
 
-.hap {
+.first_in_body {
     display: inline;
 
 }
 
-.p {
+.del {
     color: black;
     font-weight: 900;
-}
-
-
-.a {
-    display: inline;
-}
-.p{
     display: inline;
 }
 
-.futbolka{
+
+.the {
+    display: inline;
+}
+
+.men {
     position: absolute;
     width: 42%;
     min-width: 400px;
     padding-left: 40px;
 
 }
-.nazvanie{
-    position: relative;
-    left: 800px;
+
+.name {
+    position: absolute;
+   right: 600px;
     font-weight: 900;
-    font-size:30px ;
+    font-size: 30px;
+    margin-left: 700px;
 }
-.coctav{
+
+.compos {
     position: relative;
     left: 800px;
     font-size: 18px;
 }
-.o{
+
+.size_clothes {
     border: 1px solid black;
-   position: absolute;
-    left: 760px; display: inline;
+    position: absolute;
+    left: 760px;
+    display: inline;
     font-size: 70px;
 
 }
-.pazmep{
-    left: 800px;
-    position: relative;
-    top: 100px;
+
+.size {
+    right:900px ;
+    position: absolute;
+    top: 300px;
 }
 
 
